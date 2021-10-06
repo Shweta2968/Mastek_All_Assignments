@@ -1,0 +1,21 @@
+.letter{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}   
+.first_address{
+    text-align: right;
+    float:right;
+}
+.second_address{
+    padding-top:190px;
+}
+.subject{
+    padding-top: 0px;
+}
+.description{
+    text-align: left;
+}
+.names{
+    font-size:15px;
+    font-weight:700;
+    font-display: flex;
+}
